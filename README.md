@@ -138,6 +138,8 @@ macOS / Linux 将示例中的 `& ./.venv/Scripts/python.exe` 换为 `./.venv/bin
 
 <img src="./assets/sponsor.jpg" alt="微信赞赏码" width="280">
 
+问题反馈请通过仓库问题，或加入QQ交流群：345353411。
+
 ## 安装提示词：复制给 Agent
 
 仓库地址已写入下面的提示词，直接复制对应段落即可。安装任务只完成下载、技能安装和环境检查；配置账号并执行课程是后续独立任务。
